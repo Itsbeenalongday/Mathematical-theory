@@ -1,0 +1,3 @@
+﻿  약수.cpp
+C:\Users\유성민\Desktop\git\math\math\1037_약수\약수.cpp(12,6): warning C4101: 'input' :참조되지 않은 지역 변수입니다.
+  1037_약수.vcxproj -> C:\Users\유성민\Desktop\git\math\math\Debug\1037_약수.exe
