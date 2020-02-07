@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2745_진법 변환", "2745_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11567_Base Conversion", "11567_Base Conversion\11567_Base Conversion.vcxproj", "{0490376E-C3A8-4B6B-8968-D43FCB1CAA23}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9375_패션왕 신해빈", "9375_패션왕 신해빈\9375_패션왕 신해빈.vcxproj", "{193BF0A7-47B8-43B3-BAD4-154F99B09584}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +233,14 @@ Global
 		{0490376E-C3A8-4B6B-8968-D43FCB1CAA23}.Release|x64.Build.0 = Release|x64
 		{0490376E-C3A8-4B6B-8968-D43FCB1CAA23}.Release|x86.ActiveCfg = Release|Win32
 		{0490376E-C3A8-4B6B-8968-D43FCB1CAA23}.Release|x86.Build.0 = Release|Win32
+		{193BF0A7-47B8-43B3-BAD4-154F99B09584}.Debug|x64.ActiveCfg = Debug|x64
+		{193BF0A7-47B8-43B3-BAD4-154F99B09584}.Debug|x64.Build.0 = Debug|x64
+		{193BF0A7-47B8-43B3-BAD4-154F99B09584}.Debug|x86.ActiveCfg = Debug|Win32
+		{193BF0A7-47B8-43B3-BAD4-154F99B09584}.Debug|x86.Build.0 = Debug|Win32
+		{193BF0A7-47B8-43B3-BAD4-154F99B09584}.Release|x64.ActiveCfg = Release|x64
+		{193BF0A7-47B8-43B3-BAD4-154F99B09584}.Release|x64.Build.0 = Release|x64
+		{193BF0A7-47B8-43B3-BAD4-154F99B09584}.Release|x86.ActiveCfg = Release|Win32
+		{193BF0A7-47B8-43B3-BAD4-154F99B09584}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
