@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11567_Base Conversion", "11
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9375_패션왕 신해빈", "9375_패션왕 신해빈\9375_패션왕 신해빈.vcxproj", "{193BF0A7-47B8-43B3-BAD4-154F99B09584}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1009_분산처리", "1009_분산처리\1009_분산처리.vcxproj", "{1148E1C2-7884-40DA-AEEB-486DC49B5C17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{193BF0A7-47B8-43B3-BAD4-154F99B09584}.Release|x64.Build.0 = Release|x64
 		{193BF0A7-47B8-43B3-BAD4-154F99B09584}.Release|x86.ActiveCfg = Release|Win32
 		{193BF0A7-47B8-43B3-BAD4-154F99B09584}.Release|x86.Build.0 = Release|Win32
+		{1148E1C2-7884-40DA-AEEB-486DC49B5C17}.Debug|x64.ActiveCfg = Debug|x64
+		{1148E1C2-7884-40DA-AEEB-486DC49B5C17}.Debug|x64.Build.0 = Debug|x64
+		{1148E1C2-7884-40DA-AEEB-486DC49B5C17}.Debug|x86.ActiveCfg = Debug|Win32
+		{1148E1C2-7884-40DA-AEEB-486DC49B5C17}.Debug|x86.Build.0 = Debug|Win32
+		{1148E1C2-7884-40DA-AEEB-486DC49B5C17}.Release|x64.ActiveCfg = Release|x64
+		{1148E1C2-7884-40DA-AEEB-486DC49B5C17}.Release|x64.Build.0 = Release|x64
+		{1148E1C2-7884-40DA-AEEB-486DC49B5C17}.Release|x86.ActiveCfg = Release|Win32
+		{1148E1C2-7884-40DA-AEEB-486DC49B5C17}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
